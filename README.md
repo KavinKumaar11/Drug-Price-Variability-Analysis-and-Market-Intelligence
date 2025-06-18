@@ -153,14 +153,3 @@ University of Connecticut
 
 ---
 
-## ✅ Next Steps for You
-
-- Replace placeholder URLs with your actual **GitHub repo**, **LinkedIn**, or **portfolio** links.
-- If you later publish a Power BI dashboard, add the `.pbix` file and update the dashboard section.
-- Let me know if you want this tailored further for a **specific job description** (e.g., data analyst in healthcare, ML engineer using GenAI, etc.).
-
----
-
-### 📌 Suggested Resume Line
-
-> **Drug Price Variability Analysis (2025)** – Built a healthcare analytics pipeline using manual scraping, Gemini OCR, and statistical modeling to uncover pharmacy-level pricing inequities across ZIP codes for 15 high-impact drugs. Outlined Power BI dashboard and proposed transparency metrics for healthcare policy applications.

@@ -1,0 +1,9 @@
+google-generativeai
+pdf2image
+Pillow
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+scipy

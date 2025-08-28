@@ -37,8 +37,7 @@ These drugs include:
 
 ### 🖼️ Manual Data Collection (Scraping via Screenshots)
 
-- Captured **150+ screenshots** from **GoodRx.com** across 5 ZIP codes:
-  - `10001` (NYC), `30301` (Atlanta), `60601` (Chicago), `77001` (Houston), `90001` (Los Angeles)
+- Captured **150+ screenshots** from **GoodRx.com** across 10 ZIP codes:
 - Screenshots organized per drug in the `goodrx_screenshots/` folder
 
 ---
